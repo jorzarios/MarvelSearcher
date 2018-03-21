@@ -1,7 +1,6 @@
 {
   "dependencies": {
-    "page": "1.6.3",
-    "jquery": "2.1.4"
+    "page": "1.6.3"
   },
   "devDependencies": {
     "http-server": "0.8.0",
